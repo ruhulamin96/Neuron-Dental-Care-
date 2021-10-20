@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Neuron Dental Care
 
 Project Live Site Link [Neuron Dental Care](https://react-firebase-4279d.web.app/).
 
