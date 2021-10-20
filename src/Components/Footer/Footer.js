@@ -20,11 +20,11 @@ function Footer() {
             </div>
           </div>
           <div className="col-md-4 text-center">
-            <h2>Courses</h2>
-            <p>Web Design</p>
-            <p>Graphics Design</p>
-            <p>App Development</p>
-            <p>Digital Marketing</p>
+            <h2>More Teeth Services</h2>
+            <p>Teeth Root Canel</p>
+            <p>Scaling Teeth</p>
+            <p>Vanier Scaling</p>
+            <p>Cleansing Teeth</p>
           </div>
           <div className="col-md-4 text-center">
             <h2>Follow Us</h2>
